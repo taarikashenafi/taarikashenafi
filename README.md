@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/taarikashenafi)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/taarik-ashenafi/)
 
 - 👋 Hi, I’m @taarikashenafi
 - 👀 I’m interested in ...

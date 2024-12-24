@@ -42,16 +42,4 @@
 
 ###
 
-<h4 align="left">where to find me</h4>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/taarik-ashenafi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://taarikashenafi.com" target="_blank" align+"left>taarikashenafi.com</a>
-  
-</div>
-
-###

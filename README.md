@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">computer science student at the university of houston</p>
+<p align="left">computer science student at the university of houston. currently interning here @ GitHub</p>
 
 ###
 
